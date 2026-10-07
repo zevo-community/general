@@ -249,7 +249,3 @@
 ## Zevo AI-Driven Smart Car™  
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/c0cb0b35-e4ca-4747-ad89-f1c28e3e4580" />
-
-## Zevo AI-Driven Computer Engineering Ecosystem™
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/60b33903-51f9-45d0-bf95-238f38639b25" />
