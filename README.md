@@ -249,3 +249,13 @@
 ## Zevo AI-Driven Smart Car™  
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/c0cb0b35-e4ca-4747-ad89-f1c28e3e4580" />
+
+---
+
+### Esquerda da questão - Vermelho e Preto and Direita da questão - Vermelho e Branco™
+
+### OR
+
+### Direita da questão - Vermelho e Branco and Esquerda da questão - Vermelho e Preto™
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/d4fded84-3ed1-49ff-aac2-f7c34cbc2088" />
